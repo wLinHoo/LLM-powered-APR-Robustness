@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/薛鹏宇/Downloads/javaparser-core-3.25.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/薛鹏宇/Downloads/javaparser-javaparser-parent-3.25.8.zip"/>
+	<classpathentry kind="lib" path="C:/Users/薛鹏宇/Downloads/json-20210307.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
